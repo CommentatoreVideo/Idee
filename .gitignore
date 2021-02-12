@@ -1,0 +1,6 @@
+/node_modules/
+.env
+# Cartelle utili solo per lo sviluppo in locale. Da rimuovere alla fine del lavoro
+dist
+scripts
+src
